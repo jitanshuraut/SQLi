@@ -56,10 +56,6 @@ We evaluate our models based on several metrics:
 Our system demonstrated promising results in detecting SQL injection attacks:
 - **Random Forest** showed an accuracy of 81.33%, with a precision of 99.00% and an F1-score of 84.13%.
 - **SVMs** achieved a precision of 93.60%, though they had lower recall, indicating room for improvement.
-- **BERT Model** excelled with an accuracy of 98.11%, a near-perfect precision, and an F1-score of 98.07%, indicating very high efficacy in detecting SQL injections.
+- **BERT Model** excelled with an accuracy of 98.11%, Precision of 99.99%, a near-perfect precision, and an F1-score of 98.07%, indicating very high efficacy in detecting SQL injections.
 
-## Contributer
 
-<a href="https://github.com/jitanshuraut">
-  <img src="[https://contrib.rocks/image?repo=OWNER/REPO](https://avatars.githubusercontent.com/u/96559286?v=)" />
-</a>
